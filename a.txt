@@ -1,2 +1,3 @@
 Ovo je prva promena
 Prvi feature promena a
+Klon 1
