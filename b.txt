@@ -1,2 +1,4 @@
 Ovo je prva promena b
 Feature promena b
+
+Klon promena b
